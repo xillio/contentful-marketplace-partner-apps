@@ -1,5 +1,21 @@
 # Changelog
 
+## [1.1.7](https://github.com/xillio/contentful-marketplace-partner-apps/compare/adapt-essentials-asset-fields-v1.1.6...adapt-essentials-asset-fields-v1.1.7) (2024-10-11)
+
+
+### Bug Fixes
+
+* **deps:** bump react-focus-lock from 2.12.1 to 2.13.0 in /apps/adapt-essentials-asset-fields in the production-dependencies group ([#2673](https://github.com/xillio/contentful-marketplace-partner-apps/issues/2673)) ([7793e43](https://github.com/xillio/contentful-marketplace-partner-apps/commit/7793e43ae4498fa44459f84d03054b3e38fee261))
+* **deps:** bump react-focus-lock from 2.13.0 to 2.13.2 in /apps/adapt-essentials-asset-fields in the production-dependencies group ([#2690](https://github.com/xillio/contentful-marketplace-partner-apps/issues/2690)) ([e5628ee](https://github.com/xillio/contentful-marketplace-partner-apps/commit/e5628ee8dff3ffd4847c463e4e1db1a1c41a8fd6))
+* **deps:** bump rollup from 4.21.0 to 4.22.4 in /apps/adapt-essentials-asset-fields ([#3054](https://github.com/xillio/contentful-marketplace-partner-apps/issues/3054)) ([9c75055](https://github.com/xillio/contentful-marketplace-partner-apps/commit/9c75055044f2992e7f407eaca7bdd515bb2d0dfa))
+* **deps:** bump the production-dependencies group in /apps/adapt-essentials-asset-fields with 2 updates ([#2787](https://github.com/xillio/contentful-marketplace-partner-apps/issues/2787)) ([51d6e1b](https://github.com/xillio/contentful-marketplace-partner-apps/commit/51d6e1b52b4c0123a74a38bdaa063dc8b547f324))
+* **deps:** bump the production-dependencies group in /apps/adapt-essentials-asset-fields with 2 updates ([#2907](https://github.com/xillio/contentful-marketplace-partner-apps/issues/2907)) ([c3e53ed](https://github.com/xillio/contentful-marketplace-partner-apps/commit/c3e53ed16aec9ec4587ae42e914e27f9a8ec2dcd))
+* **deps:** bump the production-dependencies group in /apps/adapt-essentials-asset-fields with 2 updates ([#2923](https://github.com/xillio/contentful-marketplace-partner-apps/issues/2923)) ([22fc7d5](https://github.com/xillio/contentful-marketplace-partner-apps/commit/22fc7d5b8c9a60d987cffb2f2d5dd118f0b47d1c))
+* **deps:** bump the production-dependencies group in /apps/adapt-essentials-asset-fields with 2 updates ([#3187](https://github.com/xillio/contentful-marketplace-partner-apps/issues/3187)) ([2872d4b](https://github.com/xillio/contentful-marketplace-partner-apps/commit/2872d4b0bc1153c7d72314e220f35c176b344c5f))
+* **deps:** bump the production-dependencies group in /apps/adapt-essentials-asset-fields with 2 updates ([#3201](https://github.com/xillio/contentful-marketplace-partner-apps/issues/3201)) ([328b3d8](https://github.com/xillio/contentful-marketplace-partner-apps/commit/328b3d8dcc96c73c2c2dba4aad281203ec6b3ef8))
+* **deps:** bump the production-dependencies group in /apps/adapt-essentials-asset-fields with 3 updates ([#2857](https://github.com/xillio/contentful-marketplace-partner-apps/issues/2857)) ([b6fa07f](https://github.com/xillio/contentful-marketplace-partner-apps/commit/b6fa07fa0a801ce97b0203674ad2908d0981f1ba))
+* update `apps/adapt-essentials-asset-fields` code to support updated lint rules ([#2444](https://github.com/xillio/contentful-marketplace-partner-apps/issues/2444)) ([1c91da1](https://github.com/xillio/contentful-marketplace-partner-apps/commit/1c91da1b010ff396f0d6277144cb5b550a7b88a0))
+
 ## [1.1.6](https://github.com/contentful/marketplace-partner-apps/compare/adapt-essentials-asset-fields-v1.1.5...adapt-essentials-asset-fields-v1.1.6) (2024-09-24)
 
 

@@ -1,5 +1,28 @@
 # Changelog
 
+## [1.0.25](https://github.com/xillio/contentful-marketplace-partner-apps/compare/surfer-contentful-app-v1.0.24...surfer-contentful-app-v1.0.25) (2024-10-11)
+
+
+### Bug Fixes
+
+* **deps:** bump @contentful/f36-components from 4.68.1 to 4.69.0 in /apps/surfer in the production-dependencies group ([#2785](https://github.com/xillio/contentful-marketplace-partner-apps/issues/2785)) ([293b6f5](https://github.com/xillio/contentful-marketplace-partner-apps/commit/293b6f5b1b414939cb5402cac652dfd1350ddc8a))
+* **deps:** bump @contentful/f36-components from 4.69.0 to 4.69.1 in /apps/surfer in the production-dependencies group ([#2853](https://github.com/xillio/contentful-marketplace-partner-apps/issues/2853)) ([3ec3904](https://github.com/xillio/contentful-marketplace-partner-apps/commit/3ec390448706d744b762f7ff670d7968b54befcb))
+* **deps:** bump @contentful/f36-components from 4.69.1 to 4.69.2 in /apps/surfer in the production-dependencies group ([#2911](https://github.com/xillio/contentful-marketplace-partner-apps/issues/2911)) ([b38bddd](https://github.com/xillio/contentful-marketplace-partner-apps/commit/b38bddd049dea028dbe27ccc9e338b9206113985))
+* **deps:** bump @contentful/f36-components from 4.69.2 to 4.70.0 in /apps/surfer in the production-dependencies group ([#2927](https://github.com/xillio/contentful-marketplace-partner-apps/issues/2927)) ([96b79fd](https://github.com/xillio/contentful-marketplace-partner-apps/commit/96b79fd054de99ed14b849cd51125a8b7c745f1a))
+* **deps:** bump @contentful/f36-components from 4.73.0 to 4.74.0 in /apps/surfer in the production-dependencies group ([#3199](https://github.com/xillio/contentful-marketplace-partner-apps/issues/3199)) ([aaad0cf](https://github.com/xillio/contentful-marketplace-partner-apps/commit/aaad0cf7cc7f950ed660dd504927475f01c7107a))
+* **deps:** bump @contentful/rich-text-html-renderer from 16.6.8 to 16.6.9 in /apps/surfer in the production-dependencies group ([#2669](https://github.com/xillio/contentful-marketplace-partner-apps/issues/2669)) ([8aa6183](https://github.com/xillio/contentful-marketplace-partner-apps/commit/8aa6183e82c418b0939b6f6029c13ac66f3637b9))
+* **deps:** bump @contentful/rich-text-html-renderer from 16.6.9 to 16.6.10 in /apps/surfer in the production-dependencies group ([#2831](https://github.com/xillio/contentful-marketplace-partner-apps/issues/2831)) ([e51449b](https://github.com/xillio/contentful-marketplace-partner-apps/commit/e51449b5a24a00440d2a4fd1eac2b556988115d3))
+* **deps:** bump @emotion/css from 11.13.0 to 11.13.4 in /apps/surfer in the production-dependencies group ([#3126](https://github.com/xillio/contentful-marketplace-partner-apps/issues/3126)) ([62cf6a8](https://github.com/xillio/contentful-marketplace-partner-apps/commit/62cf6a8b0ce5721364c37b8a622699ecee13590d))
+* **deps:** bump contentful-management from 11.31.8 to 11.31.9 in /apps/surfer in the production-dependencies group ([#2689](https://github.com/xillio/contentful-marketplace-partner-apps/issues/2689)) ([874a55a](https://github.com/xillio/contentful-marketplace-partner-apps/commit/874a55a6250f2aa3a7c408ccf08b3d4c4e28a86c))
+* **deps:** bump contentful-management from 11.31.9 to 11.32.0 in /apps/surfer in the production-dependencies group ([#2730](https://github.com/xillio/contentful-marketplace-partner-apps/issues/2730)) ([13a81ae](https://github.com/xillio/contentful-marketplace-partner-apps/commit/13a81aee5949285c440c16165144f4739cdaabcb))
+* **deps:** bump contentful-management from 11.32.0 to 11.33.0 in /apps/surfer in the production-dependencies group ([#2757](https://github.com/xillio/contentful-marketplace-partner-apps/issues/2757)) ([9631b45](https://github.com/xillio/contentful-marketplace-partner-apps/commit/9631b45ec131b0c2001d270b34b6f06bb7cf3410))
+* **deps:** bump contentful-management from 11.33.0 to 11.34.0 in /apps/surfer in the production-dependencies group ([#2975](https://github.com/xillio/contentful-marketplace-partner-apps/issues/2975)) ([b8bb4c7](https://github.com/xillio/contentful-marketplace-partner-apps/commit/b8bb4c7d4631868100fd6c204ea2673d59f6e435))
+* **deps:** bump contentful-management from 11.34.0 to 11.35.0 in /apps/surfer in the production-dependencies group ([#2996](https://github.com/xillio/contentful-marketplace-partner-apps/issues/2996)) ([a2fe10d](https://github.com/xillio/contentful-marketplace-partner-apps/commit/a2fe10dd39d2e6aba14bc41d4add97b9de228403))
+* **deps:** bump contentful-management from 11.35.0 to 11.35.1 in /apps/surfer in the production-dependencies group ([#3089](https://github.com/xillio/contentful-marketplace-partner-apps/issues/3089)) ([35ad3d9](https://github.com/xillio/contentful-marketplace-partner-apps/commit/35ad3d95dc7936137d6ffe8d4d508f0d0cca01b8))
+* **deps:** bump rollup from 4.20.0 to 4.22.4 in /apps/surfer ([#3046](https://github.com/xillio/contentful-marketplace-partner-apps/issues/3046)) ([18d3f03](https://github.com/xillio/contentful-marketplace-partner-apps/commit/18d3f037021f4b0646603a613a30d5322abd24d4))
+* **deps:** bump the production-dependencies group in /apps/surfer with 2 updates ([#3177](https://github.com/xillio/contentful-marketplace-partner-apps/issues/3177)) ([3471479](https://github.com/xillio/contentful-marketplace-partner-apps/commit/34714792382b2f979c6b4a78add2ada3eb257be8))
+* Prefix env variable with 'VITE' to be injected ([#2827](https://github.com/xillio/contentful-marketplace-partner-apps/issues/2827)) ([a129c6b](https://github.com/xillio/contentful-marketplace-partner-apps/commit/a129c6bd945d3a6e345f9c32b8c674b6950b6570))
+
 ## [1.0.24](https://github.com/contentful/marketplace-partner-apps/compare/surfer-contentful-app-v1.0.23...surfer-contentful-app-v1.0.24) (2024-09-24)
 
 

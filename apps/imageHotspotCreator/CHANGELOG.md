@@ -1,5 +1,26 @@
 # Changelog
 
+## [1.0.23](https://github.com/xillio/contentful-marketplace-partner-apps/compare/image-hotspot-creator-v1.0.22...image-hotspot-creator-v1.0.23) (2024-10-11)
+
+
+### Bug Fixes
+
+* **deps:** bump @contentful/f36-components from 4.68.1 to 4.69.0 in /apps/imageHotspotCreator in the production-dependencies group ([#2797](https://github.com/xillio/contentful-marketplace-partner-apps/issues/2797)) ([0346d29](https://github.com/xillio/contentful-marketplace-partner-apps/commit/0346d29884e939d0b707f7fd121e6a94c0c99542))
+* **deps:** bump @contentful/f36-components from 4.69.1 to 4.69.2 in /apps/imageHotspotCreator in the production-dependencies group ([#2895](https://github.com/xillio/contentful-marketplace-partner-apps/issues/2895)) ([9a49e1d](https://github.com/xillio/contentful-marketplace-partner-apps/commit/9a49e1d2bab7ecdfcfc70f1a14b492b821a42086))
+* **deps:** bump @contentful/f36-components from 4.69.2 to 4.70.0 in /apps/imageHotspotCreator in the production-dependencies group ([#2930](https://github.com/xillio/contentful-marketplace-partner-apps/issues/2930)) ([6102367](https://github.com/xillio/contentful-marketplace-partner-apps/commit/6102367078121af400902d2338e3f339a2ca288a))
+* **deps:** bump contentful from 10.15.0 to 10.15.1 in /apps/imageHotspotCreator in the production-dependencies group ([#2862](https://github.com/xillio/contentful-marketplace-partner-apps/issues/2862)) ([4ddd7f8](https://github.com/xillio/contentful-marketplace-partner-apps/commit/4ddd7f86c8f1145b7901afa0798fe9056cb95a4f))
+* **deps:** bump contentful-management from 11.31.8 to 11.31.9 in /apps/imageHotspotCreator in the production-dependencies group ([#2693](https://github.com/xillio/contentful-marketplace-partner-apps/issues/2693)) ([fe31626](https://github.com/xillio/contentful-marketplace-partner-apps/commit/fe31626455cf20181061d80fe839af4de1301e9a))
+* **deps:** bump contentful-management from 11.31.9 to 11.32.0 in /apps/imageHotspotCreator in the production-dependencies group ([#2742](https://github.com/xillio/contentful-marketplace-partner-apps/issues/2742)) ([6d5e8a8](https://github.com/xillio/contentful-marketplace-partner-apps/commit/6d5e8a87dbee068ed0ada8ed367f509a83c21f92))
+* **deps:** bump contentful-management from 11.33.0 to 11.34.0 in /apps/imageHotspotCreator in the production-dependencies group ([#2964](https://github.com/xillio/contentful-marketplace-partner-apps/issues/2964)) ([e3a4d5b](https://github.com/xillio/contentful-marketplace-partner-apps/commit/e3a4d5b1927bb1d5a3c0e972fc01338756dbebff))
+* **deps:** bump contentful-management from 11.34.0 to 11.35.0 in /apps/imageHotspotCreator in the production-dependencies group ([#3005](https://github.com/xillio/contentful-marketplace-partner-apps/issues/3005)) ([166181d](https://github.com/xillio/contentful-marketplace-partner-apps/commit/166181d644d9fb4a06ad5ccc01604796568cdba5))
+* **deps:** bump path-to-regexp and express in /apps/imageHotspotCreator ([#2841](https://github.com/xillio/contentful-marketplace-partner-apps/issues/2841)) ([98dc034](https://github.com/xillio/contentful-marketplace-partner-apps/commit/98dc034d03c87af6b4336146fec102b670bb6b41))
+* **deps:** Bump react-image-crop from 10.1.8 to 11.0.6 in /apps/imageHotspotCreator ([#2288](https://github.com/xillio/contentful-marketplace-partner-apps/issues/2288)) ([ddab5ee](https://github.com/xillio/contentful-marketplace-partner-apps/commit/ddab5ee42ecc4bce1294776d3eccd91ff1bdf821))
+* **deps:** bump rollup from 2.79.1 to 2.79.2 in /apps/imageHotspotCreator ([#3095](https://github.com/xillio/contentful-marketplace-partner-apps/issues/3095)) ([ee2e640](https://github.com/xillio/contentful-marketplace-partner-apps/commit/ee2e6406eb464d47625bb3888cae3c3833816ec7))
+* **deps:** bump send and express in /apps/imageHotspotCreator ([#3204](https://github.com/xillio/contentful-marketplace-partner-apps/issues/3204)) ([7ceba90](https://github.com/xillio/contentful-marketplace-partner-apps/commit/7ceba90403c7344b8ce91c6959dce8c6c098acb8))
+* **deps:** bump the production-dependencies group in /apps/imageHotspotCreator with 2 updates ([#2777](https://github.com/xillio/contentful-marketplace-partner-apps/issues/2777)) ([aa66ed8](https://github.com/xillio/contentful-marketplace-partner-apps/commit/aa66ed894cd465ae068fd70058644081df1cf889))
+* **deps:** bump the production-dependencies group in /apps/imageHotspotCreator with 2 updates ([#2842](https://github.com/xillio/contentful-marketplace-partner-apps/issues/2842)) ([11fb9ef](https://github.com/xillio/contentful-marketplace-partner-apps/commit/11fb9ef4b60077b1e7827c8a5ba7e8f9e6f0497d))
+* **deps:** bump webpack from 5.89.0 to 5.94.0 in /apps/imageHotspotCreator ([#2704](https://github.com/xillio/contentful-marketplace-partner-apps/issues/2704)) ([3f5401f](https://github.com/xillio/contentful-marketplace-partner-apps/commit/3f5401fa02afa976aeaa0654173a00cfeba74b72))
+
 ## [1.0.22](https://github.com/contentful/marketplace-partner-apps/compare/image-hotspot-creator-v1.0.21...image-hotspot-creator-v1.0.22) (2024-09-24)
 
 
