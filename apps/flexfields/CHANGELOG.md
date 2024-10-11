@@ -1,5 +1,26 @@
 # Changelog
 
+## [1.2.6](https://github.com/xillio/contentful-marketplace-partner-apps/compare/thrillworks-flex-fields-app-v1.2.5...thrillworks-flex-fields-app-v1.2.6) (2024-10-11)
+
+
+### Bug Fixes
+
+* **deps:** bump @contentful/default-field-editors from 1.7.11 to 1.7.12 in /apps/flexfields in the production-dependencies group ([#2807](https://github.com/xillio/contentful-marketplace-partner-apps/issues/2807)) ([35129ed](https://github.com/xillio/contentful-marketplace-partner-apps/commit/35129eda47603f22213e10f0040626590c6d572b))
+* **deps:** bump @contentful/f36-components from 4.69.0 to 4.69.1 in /apps/flexfields in the production-dependencies group ([#2844](https://github.com/xillio/contentful-marketplace-partner-apps/issues/2844)) ([57b5113](https://github.com/xillio/contentful-marketplace-partner-apps/commit/57b51135ab46a1114e8f0a9e71d76ff216e92f18))
+* **deps:** bump @contentful/f36-components from 4.69.1 to 4.69.2 in /apps/flexfields in the production-dependencies group ([#2903](https://github.com/xillio/contentful-marketplace-partner-apps/issues/2903)) ([2c77c67](https://github.com/xillio/contentful-marketplace-partner-apps/commit/2c77c67aa7287c24fd8d2f8dac8968dbe169d081))
+* **deps:** bump @contentful/f36-components from 4.69.2 to 4.70.0 in /apps/flexfields in the production-dependencies group ([#2931](https://github.com/xillio/contentful-marketplace-partner-apps/issues/2931)) ([16d64ed](https://github.com/xillio/contentful-marketplace-partner-apps/commit/16d64ed627ee87e852344fe29c7b1b1fdef4f249))
+* **deps:** bump @emotion/css from 11.13.0 to 11.13.4 in /apps/flexfields in the production-dependencies group ([#3127](https://github.com/xillio/contentful-marketplace-partner-apps/issues/3127)) ([67ac0cd](https://github.com/xillio/contentful-marketplace-partner-apps/commit/67ac0cdb44da1237c23f50d6415cc3fa86abe20f))
+* **deps:** bump contentful-management from 11.31.8 to 11.31.9 in /apps/flexfields in the production-dependencies group ([#2685](https://github.com/xillio/contentful-marketplace-partner-apps/issues/2685)) ([f9bddf5](https://github.com/xillio/contentful-marketplace-partner-apps/commit/f9bddf5e36c86845ee60124a2e2b3bfbc66107a2))
+* **deps:** bump contentful-management from 11.31.9 to 11.32.0 in /apps/flexfields in the production-dependencies group ([#2740](https://github.com/xillio/contentful-marketplace-partner-apps/issues/2740)) ([92d467a](https://github.com/xillio/contentful-marketplace-partner-apps/commit/92d467a4606ffcc67774a283cb51bb7a58d80f28))
+* **deps:** bump contentful-management from 11.32.0 to 11.33.0 in /apps/flexfields in the production-dependencies group ([#2781](https://github.com/xillio/contentful-marketplace-partner-apps/issues/2781)) ([99ade7b](https://github.com/xillio/contentful-marketplace-partner-apps/commit/99ade7b0b25febf84b23f871c8d2160596b91bc5))
+* **deps:** bump contentful-management from 11.33.0 to 11.34.0 in /apps/flexfields in the production-dependencies group ([#2960](https://github.com/xillio/contentful-marketplace-partner-apps/issues/2960)) ([9062c98](https://github.com/xillio/contentful-marketplace-partner-apps/commit/9062c9858fbd1b5d8a3e4d66cdae4a5d2748d128))
+* **deps:** bump contentful-management from 11.34.0 to 11.35.0 in /apps/flexfields in the production-dependencies group ([#3000](https://github.com/xillio/contentful-marketplace-partner-apps/issues/3000)) ([ea42eea](https://github.com/xillio/contentful-marketplace-partner-apps/commit/ea42eeac7526437c5638b0302328275d978dabd2))
+* **deps:** bump contentful-management from 11.35.0 to 11.35.1 in /apps/flexfields in the production-dependencies group ([#3090](https://github.com/xillio/contentful-marketplace-partner-apps/issues/3090)) ([e0f766f](https://github.com/xillio/contentful-marketplace-partner-apps/commit/e0f766f80abf32b1740e61a7d3857e4d9ebc8a23))
+* **deps:** bump the production-dependencies group in /apps/flexfields with 2 updates ([#2798](https://github.com/xillio/contentful-marketplace-partner-apps/issues/2798)) ([8fd7034](https://github.com/xillio/contentful-marketplace-partner-apps/commit/8fd703496202f5194e51952c6c5fe9653e1b9add))
+* **deps:** bump the production-dependencies group in /apps/flexfields with 4 updates ([#3203](https://github.com/xillio/contentful-marketplace-partner-apps/issues/3203)) ([d583ab4](https://github.com/xillio/contentful-marketplace-partner-apps/commit/d583ab4919a2194df0ce153c7f32bb56c4465909))
+* **deps:** bump the production-dependencies group in /apps/flexfields with 5 updates ([#3180](https://github.com/xillio/contentful-marketplace-partner-apps/issues/3180)) ([5e4225d](https://github.com/xillio/contentful-marketplace-partner-apps/commit/5e4225dde89c26fa54228aa711cdccc9946c70ed))
+* **FlexFields:** fallback to the default JSON editor for entry fields that use other apps ([#2752](https://github.com/xillio/contentful-marketplace-partner-apps/issues/2752)) ([928d305](https://github.com/xillio/contentful-marketplace-partner-apps/commit/928d305cc14f9f3b07234bb4bab4298bb7bdd979))
+
 ## [1.2.5](https://github.com/contentful/marketplace-partner-apps/compare/thrillworks-flex-fields-app-v1.2.4...thrillworks-flex-fields-app-v1.2.5) (2024-09-24)
 
 

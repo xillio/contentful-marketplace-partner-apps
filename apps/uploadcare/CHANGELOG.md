@@ -1,5 +1,28 @@
 # Changelog
 
+## [1.0.21](https://github.com/xillio/contentful-marketplace-partner-apps/compare/uploadcare-contentful-app-v1.0.20...uploadcare-contentful-app-v1.0.21) (2024-10-11)
+
+
+### Bug Fixes
+
+* **deps:** bump @contentful/f36-components from 4.68.1 to 4.69.0 in /apps/uploadcare in the production-dependencies group ([#2790](https://github.com/xillio/contentful-marketplace-partner-apps/issues/2790)) ([30fea20](https://github.com/xillio/contentful-marketplace-partner-apps/commit/30fea20cc913326c7d8858dd7c250860b7270a91))
+* **deps:** bump @contentful/f36-components from 4.69.0 to 4.69.1 in /apps/uploadcare in the production-dependencies group ([#2851](https://github.com/xillio/contentful-marketplace-partner-apps/issues/2851)) ([875c480](https://github.com/xillio/contentful-marketplace-partner-apps/commit/875c480fdcd4ee2b926c64ecbc6bdaf4da6e5724))
+* **deps:** bump @contentful/f36-components from 4.69.1 to 4.69.2 in /apps/uploadcare in the production-dependencies group ([#2912](https://github.com/xillio/contentful-marketplace-partner-apps/issues/2912)) ([dfd23f0](https://github.com/xillio/contentful-marketplace-partner-apps/commit/dfd23f0766960844fd40116d18a5591098ffd745))
+* **deps:** bump @contentful/f36-components from 4.69.2 to 4.70.0 in /apps/uploadcare in the production-dependencies group ([#2928](https://github.com/xillio/contentful-marketplace-partner-apps/issues/2928)) ([e7aed17](https://github.com/xillio/contentful-marketplace-partner-apps/commit/e7aed17ea39b40e777a9555f247fba429a227069))
+* **deps:** bump @contentful/f36-components from 4.73.0 to 4.74.0 in /apps/uploadcare in the production-dependencies group ([#3208](https://github.com/xillio/contentful-marketplace-partner-apps/issues/3208)) ([c5e53e8](https://github.com/xillio/contentful-marketplace-partner-apps/commit/c5e53e817db6448b3320aa0c81c644da62f7eda5))
+* **deps:** bump @emotion/css from 11.13.0 to 11.13.4 in /apps/uploadcare in the production-dependencies group ([#3132](https://github.com/xillio/contentful-marketplace-partner-apps/issues/3132)) ([c5662b7](https://github.com/xillio/contentful-marketplace-partner-apps/commit/c5662b7fd72fa56c4b3a3515a31d96ebadf81590))
+* **deps:** bump axios and @contentful/app-scripts in /apps/uploadcare ([#2920](https://github.com/xillio/contentful-marketplace-partner-apps/issues/2920)) ([861e1fd](https://github.com/xillio/contentful-marketplace-partner-apps/commit/861e1fd6d91a7e03c1b4ecd64d8f8fb54f32b14e))
+* **deps:** bump body-parser and express in /apps/uploadcare ([#2865](https://github.com/xillio/contentful-marketplace-partner-apps/issues/2865)) ([86bc960](https://github.com/xillio/contentful-marketplace-partner-apps/commit/86bc960ab2d62cac9e4ca125dec65b13c532cbbf))
+* **deps:** bump contentful-management from 11.31.8 to 11.31.9 in /apps/uploadcare in the production-dependencies group ([#2683](https://github.com/xillio/contentful-marketplace-partner-apps/issues/2683)) ([4558bf1](https://github.com/xillio/contentful-marketplace-partner-apps/commit/4558bf187a7da08e09a4df22f8ad57be1d6261c4))
+* **deps:** bump contentful-management from 11.31.9 to 11.32.0 in /apps/uploadcare in the production-dependencies group ([#2728](https://github.com/xillio/contentful-marketplace-partner-apps/issues/2728)) ([1c31c3e](https://github.com/xillio/contentful-marketplace-partner-apps/commit/1c31c3eb6411382ae2e506b677ac73d67bacd39f))
+* **deps:** bump contentful-management from 11.32.0 to 11.33.0 in /apps/uploadcare in the production-dependencies group ([#2775](https://github.com/xillio/contentful-marketplace-partner-apps/issues/2775)) ([7d3d110](https://github.com/xillio/contentful-marketplace-partner-apps/commit/7d3d1105f1e2988fd07e3015e86a34257129b80e))
+* **deps:** bump contentful-management from 11.33.0 to 11.34.0 in /apps/uploadcare in the production-dependencies group ([#2958](https://github.com/xillio/contentful-marketplace-partner-apps/issues/2958)) ([85cb8d3](https://github.com/xillio/contentful-marketplace-partner-apps/commit/85cb8d312760692b755eccc6380383379535f162))
+* **deps:** bump contentful-management from 11.34.0 to 11.35.0 in /apps/uploadcare in the production-dependencies group ([#3004](https://github.com/xillio/contentful-marketplace-partner-apps/issues/3004)) ([6e7e0b0](https://github.com/xillio/contentful-marketplace-partner-apps/commit/6e7e0b09bf088dff972c9fa66ff54b8d2f3b80be))
+* **deps:** bump contentful-management from 11.35.0 to 11.35.1 in /apps/uploadcare in the production-dependencies group ([#3103](https://github.com/xillio/contentful-marketplace-partner-apps/issues/3103)) ([a965204](https://github.com/xillio/contentful-marketplace-partner-apps/commit/a9652041e57b0391f2d1fa9ea2a3769e0afbb7b3))
+* **deps:** bump send and express in /apps/uploadcare ([#2866](https://github.com/xillio/contentful-marketplace-partner-apps/issues/2866)) ([d3876d1](https://github.com/xillio/contentful-marketplace-partner-apps/commit/d3876d1bd6d766f8251ffb2e118292c069ad9f47))
+* **deps:** bump serve-static and express in /apps/uploadcare ([#2867](https://github.com/xillio/contentful-marketplace-partner-apps/issues/2867)) ([ba81e2d](https://github.com/xillio/contentful-marketplace-partner-apps/commit/ba81e2d0df12a085471c38102800bf8461f686a8))
+* **deps:** bump the production-dependencies group in /apps/uploadcare with 2 updates ([#3191](https://github.com/xillio/contentful-marketplace-partner-apps/issues/3191)) ([c342fa6](https://github.com/xillio/contentful-marketplace-partner-apps/commit/c342fa6dec838a2f77ad8b622a759b024b7b75d7))
+
 ## [1.0.20](https://github.com/contentful/marketplace-partner-apps/compare/uploadcare-contentful-app-v1.0.19...uploadcare-contentful-app-v1.0.20) (2024-09-24)
 
 

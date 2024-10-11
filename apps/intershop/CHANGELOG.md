@@ -1,5 +1,27 @@
 # Changelog
 
+## [1.0.16](https://github.com/xillio/contentful-marketplace-partner-apps/compare/intershop-connector-v1.0.15...intershop-connector-v1.0.16) (2024-10-11)
+
+
+### Bug Fixes
+
+* **deps:** bump @contentful/f36-components from 4.69.1 to 4.69.2 in /apps/intershop in the production-dependencies group ([#2909](https://github.com/xillio/contentful-marketplace-partner-apps/issues/2909)) ([6e11ba2](https://github.com/xillio/contentful-marketplace-partner-apps/commit/6e11ba2901a784a011fd5664da290216114dd402))
+* **deps:** bump @emotion/css from 11.13.0 to 11.13.4 in /apps/intershop in the production-dependencies group ([#3123](https://github.com/xillio/contentful-marketplace-partner-apps/issues/3123)) ([f29136c](https://github.com/xillio/contentful-marketplace-partner-apps/commit/f29136c2abe1c464e2284c8ab17f96a4331f5008))
+* **deps:** bump contentful-management from 11.31.8 to 11.31.9 in /apps/intershop in the production-dependencies group ([#2695](https://github.com/xillio/contentful-marketplace-partner-apps/issues/2695)) ([a4367ed](https://github.com/xillio/contentful-marketplace-partner-apps/commit/a4367edcc761ec4a75eedbe847d2175b28475dc8))
+* **deps:** bump contentful-management from 11.31.9 to 11.32.0 in /apps/intershop in the production-dependencies group ([#2727](https://github.com/xillio/contentful-marketplace-partner-apps/issues/2727)) ([f7f5eb8](https://github.com/xillio/contentful-marketplace-partner-apps/commit/f7f5eb8ab201965c4d73798ef271d384a49b00b3))
+* **deps:** bump contentful-management from 11.32.0 to 11.33.0 in /apps/intershop in the production-dependencies group ([#2771](https://github.com/xillio/contentful-marketplace-partner-apps/issues/2771)) ([0394c18](https://github.com/xillio/contentful-marketplace-partner-apps/commit/0394c18f7df3974b1c6b02e7e027f91183bd02ee))
+* **deps:** bump contentful-management from 11.33.0 to 11.34.0 in /apps/intershop in the production-dependencies group ([#2977](https://github.com/xillio/contentful-marketplace-partner-apps/issues/2977)) ([eb9c0aa](https://github.com/xillio/contentful-marketplace-partner-apps/commit/eb9c0aadbe52d9b074ec2746b11975a963d86a1d))
+* **deps:** bump contentful-management from 11.34.0 to 11.35.0 in /apps/intershop in the production-dependencies group ([#3003](https://github.com/xillio/contentful-marketplace-partner-apps/issues/3003)) ([d412ee3](https://github.com/xillio/contentful-marketplace-partner-apps/commit/d412ee327ddbdd34a2318d92c7b7ea4f9e17a6cf))
+* **deps:** bump contentful-management from 11.35.0 to 11.35.1 in /apps/intershop in the production-dependencies group ([#3101](https://github.com/xillio/contentful-marketplace-partner-apps/issues/3101)) ([f838a11](https://github.com/xillio/contentful-marketplace-partner-apps/commit/f838a113043a9a21efa3be9c1deacbd074104c0b))
+* **deps:** bump path-to-regexp and express in /apps/intershop ([#2840](https://github.com/xillio/contentful-marketplace-partner-apps/issues/2840)) ([4915f2b](https://github.com/xillio/contentful-marketplace-partner-apps/commit/4915f2bb93658570e600bec9268126bd44a7f83f))
+* **deps:** bump rollup from 4.21.2 to 4.22.4 in /apps/intershop ([#3044](https://github.com/xillio/contentful-marketplace-partner-apps/issues/3044)) ([f5835aa](https://github.com/xillio/contentful-marketplace-partner-apps/commit/f5835aad5f0c0b3bc48b135c78e817c071342d1f))
+* **deps:** bump the production-dependencies group in /apps/intershop with 2 updates ([#2784](https://github.com/xillio/contentful-marketplace-partner-apps/issues/2784)) ([06b183d](https://github.com/xillio/contentful-marketplace-partner-apps/commit/06b183d3356689d34c5b324a156b2a98fec0f0eb))
+* **deps:** bump the production-dependencies group in /apps/intershop with 2 updates ([#2849](https://github.com/xillio/contentful-marketplace-partner-apps/issues/2849)) ([047f162](https://github.com/xillio/contentful-marketplace-partner-apps/commit/047f1620fc6469c54c48a6cf83e512825c9557c2))
+* **deps:** bump the production-dependencies group in /apps/intershop with 2 updates ([#2937](https://github.com/xillio/contentful-marketplace-partner-apps/issues/2937)) ([20a3001](https://github.com/xillio/contentful-marketplace-partner-apps/commit/20a3001ccb75f236883d4bb81e494367109f82c4))
+* **deps:** bump the production-dependencies group in /apps/intershop with 2 updates ([#3206](https://github.com/xillio/contentful-marketplace-partner-apps/issues/3206)) ([3c02d63](https://github.com/xillio/contentful-marketplace-partner-apps/commit/3c02d6371c8b455b8f6b312d1e9ed289c2f5f26b))
+* **deps:** bump the production-dependencies group in /apps/intershop with 3 updates ([#3173](https://github.com/xillio/contentful-marketplace-partner-apps/issues/3173)) ([71ec17f](https://github.com/xillio/contentful-marketplace-partner-apps/commit/71ec17f5cf7f462b0bf53a0981c04b1358ff9ecf))
+* **deps:** bump webpack from 5.88.2 to 5.94.0 in /apps/intershop ([#2702](https://github.com/xillio/contentful-marketplace-partner-apps/issues/2702)) ([5532575](https://github.com/xillio/contentful-marketplace-partner-apps/commit/553257548b55363e2e4f9c0f92c21dc1290773a4))
+
 ## [1.0.15](https://github.com/contentful/marketplace-partner-apps/compare/intershop-connector-v1.0.14...intershop-connector-v1.0.15) (2024-09-24)
 
 

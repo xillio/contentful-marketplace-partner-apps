@@ -1,5 +1,20 @@
 # Changelog
 
+## [1.0.6](https://github.com/xillio/contentful-marketplace-partner-apps/compare/bynder-content-workflow-v1.0.5...bynder-content-workflow-v1.0.6) (2024-10-11)
+
+
+### Bug Fixes
+
+* **deps:** bump @contentful/f36-components from 4.69.2 to 4.70.0 in /apps/bynder-content-workflow in the production-dependencies group ([#2918](https://github.com/xillio/contentful-marketplace-partner-apps/issues/2918)) ([c679d48](https://github.com/xillio/contentful-marketplace-partner-apps/commit/c679d483e33d78aa6a7bdeb633848521dc99938d))
+* **deps:** bump @emotion/css from 11.13.0 to 11.13.4 in /apps/bynder-content-workflow in the production-dependencies group ([#3129](https://github.com/xillio/contentful-marketplace-partner-apps/issues/3129)) ([50ee3a2](https://github.com/xillio/contentful-marketplace-partner-apps/commit/50ee3a2d11c4038767578c892d77a549b378e7c1))
+* **deps:** bump contentful-management from 11.33.0 to 11.34.0 in /apps/bynder-content-workflow in the production-dependencies group ([#2962](https://github.com/xillio/contentful-marketplace-partner-apps/issues/2962)) ([27875bd](https://github.com/xillio/contentful-marketplace-partner-apps/commit/27875bda6a77af96fd776d3cfed4d835bbd14949))
+* **deps:** bump contentful-management from 11.34.0 to 11.35.0 in /apps/bynder-content-workflow in the production-dependencies group ([#2997](https://github.com/xillio/contentful-marketplace-partner-apps/issues/2997)) ([ecdf204](https://github.com/xillio/contentful-marketplace-partner-apps/commit/ecdf20402ab41abec20e45bc8c8d9956135d7bc1))
+* **deps:** bump contentful-management from 11.35.0 to 11.35.1 in /apps/bynder-content-workflow in the production-dependencies group ([#3098](https://github.com/xillio/contentful-marketplace-partner-apps/issues/3098)) ([0ff31ea](https://github.com/xillio/contentful-marketplace-partner-apps/commit/0ff31eaaf66764033b85e12cdb5220623ba18eaf))
+* **deps:** bump rollup from 4.21.2 to 4.22.4 in /apps/bynder-content-workflow ([#3052](https://github.com/xillio/contentful-marketplace-partner-apps/issues/3052)) ([aa8a321](https://github.com/xillio/contentful-marketplace-partner-apps/commit/aa8a321c90a7404553790b7ba08096ea9e5471ab))
+* **deps:** bump the production-dependencies group in /apps/bynder-content-workflow with 2 updates ([#2901](https://github.com/xillio/contentful-marketplace-partner-apps/issues/2901)) ([a7c5285](https://github.com/xillio/contentful-marketplace-partner-apps/commit/a7c5285208e70421ea19443a6cbdda60274f68b1))
+* **deps:** bump the production-dependencies group in /apps/bynder-content-workflow with 2 updates ([#3207](https://github.com/xillio/contentful-marketplace-partner-apps/issues/3207)) ([ac70942](https://github.com/xillio/contentful-marketplace-partner-apps/commit/ac7094261b1fa8b2d4f70dffa64dad8a6b86534d))
+* **deps:** bump the production-dependencies group in /apps/bynder-content-workflow with 3 updates ([#3171](https://github.com/xillio/contentful-marketplace-partner-apps/issues/3171)) ([f7cb0a6](https://github.com/xillio/contentful-marketplace-partner-apps/commit/f7cb0a63d6a8c8250b3b615706c4e206975576a0))
+
 ## [1.0.5](https://github.com/contentful/marketplace-partner-apps/compare/bynder-content-workflow-v1.0.4...bynder-content-workflow-v1.0.5) (2024-09-24)
 
 

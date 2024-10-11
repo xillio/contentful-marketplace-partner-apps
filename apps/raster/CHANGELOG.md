@@ -1,5 +1,24 @@
 # Changelog
 
+## [1.1.0](https://github.com/xillio/contentful-marketplace-partner-apps/compare/raster-v1.0.3...raster-v1.1.0) (2024-10-11)
+
+
+### Features
+
+* release Raster app [EXT-5671] ([#2753](https://github.com/xillio/contentful-marketplace-partner-apps/issues/2753)) ([ae17d69](https://github.com/xillio/contentful-marketplace-partner-apps/commit/ae17d6903d2f49f6ca0db13e114d402b23295954))
+
+
+### Bug Fixes
+
+* adding the public folder back in ([#2820](https://github.com/xillio/contentful-marketplace-partner-apps/issues/2820)) ([1e17c41](https://github.com/xillio/contentful-marketplace-partner-apps/commit/1e17c4105ecb1be56e3de9194d522a3192cb536e))
+* **deps:** bump next from 14.2.6 to 14.2.7 in /apps/raster in the production-dependencies group ([#2706](https://github.com/xillio/contentful-marketplace-partner-apps/issues/2706)) ([ba0241c](https://github.com/xillio/contentful-marketplace-partner-apps/commit/ba0241c9a6ed8ddb0c4263276e4f272d947365ea))
+* **deps:** bump next from 14.2.8 to 14.2.10 in /apps/raster ([#2986](https://github.com/xillio/contentful-marketplace-partner-apps/issues/2986)) ([c434b3d](https://github.com/xillio/contentful-marketplace-partner-apps/commit/c434b3d04c638f7d7cb486503d244dd450477916))
+* **deps:** bump postcss from 8.4.41 to 8.4.43 in /apps/raster in the production-dependencies group ([#2767](https://github.com/xillio/contentful-marketplace-partner-apps/issues/2767)) ([299d269](https://github.com/xillio/contentful-marketplace-partner-apps/commit/299d269e420bfbeb37a6f1bc1ac1922cb798cef9))
+* **deps:** bump the production-dependencies group in /apps/raster with 2 updates ([#2795](https://github.com/xillio/contentful-marketplace-partner-apps/issues/2795)) ([b48f447](https://github.com/xillio/contentful-marketplace-partner-apps/commit/b48f4474a29e3c76906eaef78eafe9d95dcc8e64))
+* **deps:** bump the production-dependencies group in /apps/raster with 2 updates ([#2821](https://github.com/xillio/contentful-marketplace-partner-apps/issues/2821)) ([f0338bc](https://github.com/xillio/contentful-marketplace-partner-apps/commit/f0338bcea64ce3bfb0fe32d153777b84343a385e))
+* **deps:** bump the production-dependencies group in /apps/raster with 7 updates ([#2663](https://github.com/xillio/contentful-marketplace-partner-apps/issues/2663)) ([a3189e2](https://github.com/xillio/contentful-marketplace-partner-apps/commit/a3189e22d5b1f27dfbad65871255c58ebd3e1285))
+* update path for raster icon [EXT-5671] ([#2828](https://github.com/xillio/contentful-marketplace-partner-apps/issues/2828)) ([4ec372b](https://github.com/xillio/contentful-marketplace-partner-apps/commit/4ec372b0d9eca4f030ee52213d88cec224144571))
+
 ## [1.0.3](https://github.com/contentful/marketplace-partner-apps/compare/raster-v1.0.2...raster-v1.0.3) (2024-09-24)
 
 

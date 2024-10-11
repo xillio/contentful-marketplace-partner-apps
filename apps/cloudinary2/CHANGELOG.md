@@ -1,5 +1,26 @@
 # Changelog
 
+## [1.1.3](https://github.com/xillio/contentful-marketplace-partner-apps/compare/cloudinary-assets-v1.1.2...cloudinary-assets-v1.1.3) (2024-10-11)
+
+
+### Bug Fixes
+
+* **deps:** bump @contentful/f36-components from 4.68.1 to 4.69.0 in /apps/cloudinary2 in the production-dependencies group ([#2786](https://github.com/xillio/contentful-marketplace-partner-apps/issues/2786)) ([46f0b9d](https://github.com/xillio/contentful-marketplace-partner-apps/commit/46f0b9d5d638eac03d4988c166169af36ae768d7))
+* **deps:** bump @contentful/f36-components from 4.69.0 to 4.69.1 in /apps/cloudinary2 in the production-dependencies group ([#2838](https://github.com/xillio/contentful-marketplace-partner-apps/issues/2838)) ([c2706b3](https://github.com/xillio/contentful-marketplace-partner-apps/commit/c2706b375263d406447c07ed7b8e3e17e745b5b7))
+* **deps:** bump @contentful/f36-components from 4.69.1 to 4.69.2 in /apps/cloudinary2 in the production-dependencies group ([#2891](https://github.com/xillio/contentful-marketplace-partner-apps/issues/2891)) ([f2ff39e](https://github.com/xillio/contentful-marketplace-partner-apps/commit/f2ff39efc00c08d100c4c99e34b8423d60a39ac5))
+* **deps:** bump @contentful/f36-components from 4.69.2 to 4.70.0 in /apps/cloudinary2 in the production-dependencies group ([#2917](https://github.com/xillio/contentful-marketplace-partner-apps/issues/2917)) ([b593e98](https://github.com/xillio/contentful-marketplace-partner-apps/commit/b593e985f766461a11a7ec8a89760732c8398043))
+* **deps:** bump @contentful/f36-components from 4.73.0 to 4.74.0 in /apps/cloudinary2 in the production-dependencies group ([#3200](https://github.com/xillio/contentful-marketplace-partner-apps/issues/3200)) ([e7cbf0f](https://github.com/xillio/contentful-marketplace-partner-apps/commit/e7cbf0f5b0541d35719e2463b93ced544b8ebe91))
+* **deps:** bump @emotion/css from 11.13.0 to 11.13.4 in /apps/cloudinary2 in the production-dependencies group ([#3124](https://github.com/xillio/contentful-marketplace-partner-apps/issues/3124)) ([b044b48](https://github.com/xillio/contentful-marketplace-partner-apps/commit/b044b485453316ffc424ad18c03cd18ad33740b1))
+* **deps:** bump contentful-management from 11.31.8 to 11.31.9 in /apps/cloudinary2 in the production-dependencies group ([#2698](https://github.com/xillio/contentful-marketplace-partner-apps/issues/2698)) ([1ec65cc](https://github.com/xillio/contentful-marketplace-partner-apps/commit/1ec65cca2add7777bbb0de59b84082adf4b5164b))
+* **deps:** bump contentful-management from 11.31.9 to 11.32.0 in /apps/cloudinary2 in the production-dependencies group ([#2738](https://github.com/xillio/contentful-marketplace-partner-apps/issues/2738)) ([975f9c6](https://github.com/xillio/contentful-marketplace-partner-apps/commit/975f9c6ceb126b8153b39946a70ec256f31a3dda))
+* **deps:** bump contentful-management from 11.32.0 to 11.33.0 in /apps/cloudinary2 in the production-dependencies group ([#2759](https://github.com/xillio/contentful-marketplace-partner-apps/issues/2759)) ([4b51e20](https://github.com/xillio/contentful-marketplace-partner-apps/commit/4b51e206c3c76f4cddc5840d99c8629e6e2d06ea))
+* **deps:** bump contentful-management from 11.33.0 to 11.34.0 in /apps/cloudinary2 in the production-dependencies group ([#2971](https://github.com/xillio/contentful-marketplace-partner-apps/issues/2971)) ([b1abd7f](https://github.com/xillio/contentful-marketplace-partner-apps/commit/b1abd7f612479ea64d1fc908b1b671287692ec5f))
+* **deps:** bump contentful-management from 11.34.0 to 11.35.0 in /apps/cloudinary2 in the production-dependencies group ([#3002](https://github.com/xillio/contentful-marketplace-partner-apps/issues/3002)) ([5e51e71](https://github.com/xillio/contentful-marketplace-partner-apps/commit/5e51e71f43c96d9f9057c51f3798b3d077e57c6c))
+* **deps:** bump contentful-management from 11.35.0 to 11.35.1 in /apps/cloudinary2 in the production-dependencies group ([#3102](https://github.com/xillio/contentful-marketplace-partner-apps/issues/3102)) ([3f399de](https://github.com/xillio/contentful-marketplace-partner-apps/commit/3f399de80eb2c610d669baa28d67709be78a06fe))
+* **deps:** bump rollup from 4.21.0 to 4.22.4 in /apps/cloudinary2 ([#3048](https://github.com/xillio/contentful-marketplace-partner-apps/issues/3048)) ([3d51e38](https://github.com/xillio/contentful-marketplace-partner-apps/commit/3d51e38d607efe6b7a68c008a89cefafab6c688d))
+* **deps:** bump the production-dependencies group in /apps/cloudinary2 with 2 updates ([#3181](https://github.com/xillio/contentful-marketplace-partner-apps/issues/3181)) ([db970a5](https://github.com/xillio/contentful-marketplace-partner-apps/commit/db970a55bde77adcc8612014f1d4b75c4c64bba0))
+* **deps:** bump the production-dependencies group in /apps/cloudinary2 with 4 updates ([#2662](https://github.com/xillio/contentful-marketplace-partner-apps/issues/2662)) ([0269b94](https://github.com/xillio/contentful-marketplace-partner-apps/commit/0269b94c96d8f1149b9ed9f3964b67e0ea500f70))
+
 ## [1.1.2](https://github.com/contentful/marketplace-partner-apps/compare/cloudinary-assets-v1.1.1...cloudinary-assets-v1.1.2) (2024-09-24)
 
 

@@ -1,5 +1,24 @@
 # Changelog
 
+## [1.0.15](https://github.com/xillio/contentful-marketplace-partner-apps/compare/wix-contentful-app-v1.0.14...wix-contentful-app-v1.0.15) (2024-10-11)
+
+
+### Bug Fixes
+
+* **deps:** bump @contentful/f36-components from 4.68.1 to 4.69.0 in /apps/wix in the production-dependencies group ([#2802](https://github.com/xillio/contentful-marketplace-partner-apps/issues/2802)) ([36cc016](https://github.com/xillio/contentful-marketplace-partner-apps/commit/36cc016554e1687bfe849f84f6cde3247839d51b))
+* **deps:** bump @contentful/f36-components from 4.69.1 to 4.69.2 in /apps/wix in the production-dependencies group ([#2899](https://github.com/xillio/contentful-marketplace-partner-apps/issues/2899)) ([f7a3981](https://github.com/xillio/contentful-marketplace-partner-apps/commit/f7a3981de8cd71de4ca0d6144afa8b6f1707cbd3))
+* **deps:** bump @contentful/f36-components from 4.69.2 to 4.70.0 in /apps/wix in the production-dependencies group ([#2935](https://github.com/xillio/contentful-marketplace-partner-apps/issues/2935)) ([7b49a15](https://github.com/xillio/contentful-marketplace-partner-apps/commit/7b49a1500737d286157d9333ece2b5ec1ac685a7))
+* **deps:** bump @contentful/f36-components from 4.73.0 to 4.74.0 in /apps/wix in the production-dependencies group ([#3202](https://github.com/xillio/contentful-marketplace-partner-apps/issues/3202)) ([2314a8b](https://github.com/xillio/contentful-marketplace-partner-apps/commit/2314a8b37b6dca50dcd56bffd4e05fb5c2f991e8))
+* **deps:** bump contentful-management from 11.31.8 to 11.31.9 in /apps/wix in the production-dependencies group ([#2688](https://github.com/xillio/contentful-marketplace-partner-apps/issues/2688)) ([5c8dea9](https://github.com/xillio/contentful-marketplace-partner-apps/commit/5c8dea9b5d368c1ed1a5a254cb9edd52be799490))
+* **deps:** bump contentful-management from 11.31.9 to 11.32.0 in /apps/wix in the production-dependencies group ([#2749](https://github.com/xillio/contentful-marketplace-partner-apps/issues/2749)) ([004e698](https://github.com/xillio/contentful-marketplace-partner-apps/commit/004e69853693de204dc84bc7e5703f5f9c2d76db))
+* **deps:** bump contentful-management from 11.32.0 to 11.33.0 in /apps/wix in the production-dependencies group ([#2761](https://github.com/xillio/contentful-marketplace-partner-apps/issues/2761)) ([9093aa2](https://github.com/xillio/contentful-marketplace-partner-apps/commit/9093aa20c4b13371a61fed05fda5c7afcfeb0d69))
+* **deps:** bump contentful-management from 11.33.0 to 11.34.0 in /apps/wix in the production-dependencies group ([#2969](https://github.com/xillio/contentful-marketplace-partner-apps/issues/2969)) ([dfd3e3d](https://github.com/xillio/contentful-marketplace-partner-apps/commit/dfd3e3d82e9d3989f758b538bd770de7da3bfd1c))
+* **deps:** bump contentful-management from 11.34.0 to 11.35.0 in /apps/wix in the production-dependencies group ([#2999](https://github.com/xillio/contentful-marketplace-partner-apps/issues/2999)) ([cb64115](https://github.com/xillio/contentful-marketplace-partner-apps/commit/cb64115907c92fcfa49b8e72fde52a3c5228d74f))
+* **deps:** bump contentful-management from 11.35.0 to 11.35.1 in /apps/wix in the production-dependencies group ([#3104](https://github.com/xillio/contentful-marketplace-partner-apps/issues/3104)) ([e7292d1](https://github.com/xillio/contentful-marketplace-partner-apps/commit/e7292d1c2bb952af0f26623d772ddc18c995e2e1))
+* **deps:** bump rollup from 4.21.0 to 4.22.4 in /apps/wix ([#3042](https://github.com/xillio/contentful-marketplace-partner-apps/issues/3042)) ([f9609f8](https://github.com/xillio/contentful-marketplace-partner-apps/commit/f9609f8a6e0be1f631d687f05a2669368431b46c))
+* **deps:** bump the production-dependencies group in /apps/wix with 2 updates ([#3189](https://github.com/xillio/contentful-marketplace-partner-apps/issues/3189)) ([bb81b71](https://github.com/xillio/contentful-marketplace-partner-apps/commit/bb81b714c1efe959326540a103705ba8ce898817))
+* **deps:** bump the production-dependencies group in /apps/wix with 3 updates ([#2859](https://github.com/xillio/contentful-marketplace-partner-apps/issues/2859)) ([1c17547](https://github.com/xillio/contentful-marketplace-partner-apps/commit/1c17547f36d37b856b0ab1296eaf0c634ba21f83))
+
 ## [1.0.14](https://github.com/contentful/marketplace-partner-apps/compare/wix-contentful-app-v1.0.13...wix-contentful-app-v1.0.14) (2024-09-24)
 
 

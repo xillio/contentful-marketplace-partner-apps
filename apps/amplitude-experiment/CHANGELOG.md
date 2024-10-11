@@ -1,5 +1,24 @@
 # Changelog
 
+## [1.0.5](https://github.com/xillio/contentful-marketplace-partner-apps/compare/amplitude-contentful-v1.0.4...amplitude-contentful-v1.0.5) (2024-10-11)
+
+
+### Bug Fixes
+
+* **deps:** bump @contentful/f36-components from 4.68.1 to 4.69.0 in /apps/amplitude-experiment in the production-dependencies group ([#2803](https://github.com/xillio/contentful-marketplace-partner-apps/issues/2803)) ([d8d36e1](https://github.com/xillio/contentful-marketplace-partner-apps/commit/d8d36e18d639a016a3f79f124b193e0423d71059))
+* **deps:** bump @contentful/f36-components from 4.69.0 to 4.69.1 in /apps/amplitude-experiment in the production-dependencies group ([#2871](https://github.com/xillio/contentful-marketplace-partner-apps/issues/2871)) ([306a7ab](https://github.com/xillio/contentful-marketplace-partner-apps/commit/306a7ab17a976000b33d2c73de8f5db19cf75b89))
+* **deps:** bump @contentful/f36-components from 4.69.1 to 4.69.2 in /apps/amplitude-experiment in the production-dependencies group ([#2896](https://github.com/xillio/contentful-marketplace-partner-apps/issues/2896)) ([c073be1](https://github.com/xillio/contentful-marketplace-partner-apps/commit/c073be179a2c53cdf2c77ec725eeafad35ccc09d))
+* **deps:** bump @contentful/f36-components from 4.69.2 to 4.70.0 in /apps/amplitude-experiment in the production-dependencies group ([#2941](https://github.com/xillio/contentful-marketplace-partner-apps/issues/2941)) ([f8ba558](https://github.com/xillio/contentful-marketplace-partner-apps/commit/f8ba5586045fc8212e6e08947cbad79fcd9c6986))
+* **deps:** bump contentful-management from 11.31.8 to 11.31.9 in /apps/amplitude-experiment in the production-dependencies group ([#2687](https://github.com/xillio/contentful-marketplace-partner-apps/issues/2687)) ([e5d2a7d](https://github.com/xillio/contentful-marketplace-partner-apps/commit/e5d2a7dbe495b1de2adc1366a96f9e129a98d847))
+* **deps:** bump contentful-management from 11.31.9 to 11.32.0 in /apps/amplitude-experiment in the production-dependencies group ([#2736](https://github.com/xillio/contentful-marketplace-partner-apps/issues/2736)) ([5c86760](https://github.com/xillio/contentful-marketplace-partner-apps/commit/5c867604cd6afa1e87331409dabb96e2a1871fce))
+* **deps:** bump contentful-management from 11.32.0 to 11.33.0 in /apps/amplitude-experiment in the production-dependencies group ([#2765](https://github.com/xillio/contentful-marketplace-partner-apps/issues/2765)) ([dd217e5](https://github.com/xillio/contentful-marketplace-partner-apps/commit/dd217e52698c0ce149d237a0a672ca2013b599f8))
+* **deps:** bump contentful-management from 11.33.0 to 11.34.0 in /apps/amplitude-experiment in the production-dependencies group ([#2979](https://github.com/xillio/contentful-marketplace-partner-apps/issues/2979)) ([de0a417](https://github.com/xillio/contentful-marketplace-partner-apps/commit/de0a41792be602f8311537f360390fd7788c40aa))
+* **deps:** bump contentful-management from 11.34.0 to 11.35.0 in /apps/amplitude-experiment in the production-dependencies group ([#3001](https://github.com/xillio/contentful-marketplace-partner-apps/issues/3001)) ([753fb01](https://github.com/xillio/contentful-marketplace-partner-apps/commit/753fb0147e0f3df03c12b1f9b5bdd96df77ad9c8))
+* **deps:** bump contentful-management from 11.35.0 to 11.35.1 in /apps/amplitude-experiment in the production-dependencies group ([#3099](https://github.com/xillio/contentful-marketplace-partner-apps/issues/3099)) ([32cc642](https://github.com/xillio/contentful-marketplace-partner-apps/commit/32cc642480d6f25c4adcccc97f537749ee89276f))
+* **deps:** bump path-to-regexp and express in /apps/amplitude-experiment ([#2839](https://github.com/xillio/contentful-marketplace-partner-apps/issues/2839)) ([a615d3c](https://github.com/xillio/contentful-marketplace-partner-apps/commit/a615d3ca7b0a044f11c0f84307cd641050a2480f))
+* **deps:** bump rollup from 4.21.2 to 4.22.4 in /apps/amplitude-experiment ([#3053](https://github.com/xillio/contentful-marketplace-partner-apps/issues/3053)) ([f455a43](https://github.com/xillio/contentful-marketplace-partner-apps/commit/f455a434429de942811f15cb12b24e38e90fc7e6))
+* **deps:** bump webpack from 5.90.0 to 5.94.0 in /apps/amplitude-experiment ([#2703](https://github.com/xillio/contentful-marketplace-partner-apps/issues/2703)) ([ac72397](https://github.com/xillio/contentful-marketplace-partner-apps/commit/ac723978f05b4193286000cffdf53c93cb3f6734))
+
 ## [1.0.4](https://github.com/contentful/marketplace-partner-apps/compare/amplitude-contentful-v1.0.3...amplitude-contentful-v1.0.4) (2024-09-24)
 
 

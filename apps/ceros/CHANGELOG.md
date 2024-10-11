@@ -1,5 +1,25 @@
 # Changelog
 
+## [1.0.22](https://github.com/xillio/contentful-marketplace-partner-apps/compare/ceros-contentful-app-v1.0.21...ceros-contentful-app-v1.0.22) (2024-10-11)
+
+
+### Bug Fixes
+
+* **deps:** bump @contentful/f36-components from 4.68.1 to 4.69.0 in /apps/ceros in the production-dependencies group ([#2801](https://github.com/xillio/contentful-marketplace-partner-apps/issues/2801)) ([3d6f645](https://github.com/xillio/contentful-marketplace-partner-apps/commit/3d6f64582cccc6a6084f6185e9693f9b87611770))
+* **deps:** bump @contentful/f36-components from 4.69.0 to 4.69.1 in /apps/ceros in the production-dependencies group ([#2843](https://github.com/xillio/contentful-marketplace-partner-apps/issues/2843)) ([10e86ac](https://github.com/xillio/contentful-marketplace-partner-apps/commit/10e86aca5077d9c042bc45586edc3aa5a3fe94ae))
+* **deps:** bump @contentful/f36-components from 4.69.1 to 4.69.2 in /apps/ceros in the production-dependencies group ([#2914](https://github.com/xillio/contentful-marketplace-partner-apps/issues/2914)) ([b517c6e](https://github.com/xillio/contentful-marketplace-partner-apps/commit/b517c6ec7466e3bbb4fe3e1a5708a0b225786972))
+* **deps:** bump @contentful/f36-components from 4.69.2 to 4.70.0 in /apps/ceros in the production-dependencies group ([#2939](https://github.com/xillio/contentful-marketplace-partner-apps/issues/2939)) ([fb61381](https://github.com/xillio/contentful-marketplace-partner-apps/commit/fb61381713f30b8b5219e6e191a801fe6aedf798))
+* **deps:** bump @contentful/f36-components from 4.73.0 to 4.74.0 in /apps/ceros in the production-dependencies group ([#3198](https://github.com/xillio/contentful-marketplace-partner-apps/issues/3198)) ([9f47a19](https://github.com/xillio/contentful-marketplace-partner-apps/commit/9f47a19d276ef9594f91191782175c1e671e738d))
+* **deps:** bump @emotion/css from 11.13.0 to 11.13.4 in /apps/ceros in the production-dependencies group ([#3125](https://github.com/xillio/contentful-marketplace-partner-apps/issues/3125)) ([04a9c8d](https://github.com/xillio/contentful-marketplace-partner-apps/commit/04a9c8d8ba32e5b0e0d330276a36ed8367a01e73))
+* **deps:** bump contentful-management from 11.31.8 to 11.31.9 in /apps/ceros in the production-dependencies group ([#2694](https://github.com/xillio/contentful-marketplace-partner-apps/issues/2694)) ([c3a39c8](https://github.com/xillio/contentful-marketplace-partner-apps/commit/c3a39c80852178ae7c7c37c794c6b9aea95203d1))
+* **deps:** bump contentful-management from 11.31.9 to 11.32.0 in /apps/ceros in the production-dependencies group ([#2746](https://github.com/xillio/contentful-marketplace-partner-apps/issues/2746)) ([9ff4d64](https://github.com/xillio/contentful-marketplace-partner-apps/commit/9ff4d644e94b1a81210cb563cf52b9ae8847bb9d))
+* **deps:** bump contentful-management from 11.32.0 to 11.33.0 in /apps/ceros in the production-dependencies group ([#2779](https://github.com/xillio/contentful-marketplace-partner-apps/issues/2779)) ([a6d84c1](https://github.com/xillio/contentful-marketplace-partner-apps/commit/a6d84c14db227a5c39cd8c969cec98c2aa286991))
+* **deps:** bump contentful-management from 11.33.0 to 11.34.0 in /apps/ceros in the production-dependencies group ([#2972](https://github.com/xillio/contentful-marketplace-partner-apps/issues/2972)) ([db6e5ee](https://github.com/xillio/contentful-marketplace-partner-apps/commit/db6e5eeadbb230f8222b5282f1ac6c0d4d25501c))
+* **deps:** bump contentful-management from 11.34.0 to 11.35.0 in /apps/ceros in the production-dependencies group ([#2998](https://github.com/xillio/contentful-marketplace-partner-apps/issues/2998)) ([5e6d9b3](https://github.com/xillio/contentful-marketplace-partner-apps/commit/5e6d9b3403794ee2eb766f7f06c12206d15191d9))
+* **deps:** bump contentful-management from 11.35.0 to 11.35.1 in /apps/ceros in the production-dependencies group ([#3091](https://github.com/xillio/contentful-marketplace-partner-apps/issues/3091)) ([b2a7e95](https://github.com/xillio/contentful-marketplace-partner-apps/commit/b2a7e95bd14e47e774dcdc96f494998b5f4e6f65))
+* **deps:** bump rollup from 4.20.0 to 4.22.4 in /apps/ceros ([#3050](https://github.com/xillio/contentful-marketplace-partner-apps/issues/3050)) ([6b79b64](https://github.com/xillio/contentful-marketplace-partner-apps/commit/6b79b648af7d52a433f88d675b84f249fa4ec94a))
+* **deps:** bump the production-dependencies group in /apps/ceros with 2 updates ([#3195](https://github.com/xillio/contentful-marketplace-partner-apps/issues/3195)) ([16cc073](https://github.com/xillio/contentful-marketplace-partner-apps/commit/16cc073833be9120da1872addc1f54e3be846217))
+
 ## [1.0.21](https://github.com/contentful/marketplace-partner-apps/compare/ceros-contentful-app-v1.0.20...ceros-contentful-app-v1.0.21) (2024-09-24)
 
 

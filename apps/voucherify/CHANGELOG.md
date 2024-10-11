@@ -1,5 +1,21 @@
 # Changelog
 
+## [1.0.23](https://github.com/xillio/contentful-marketplace-partner-apps/compare/voucherify-contentful-app-v1.0.22...voucherify-contentful-app-v1.0.23) (2024-10-11)
+
+
+### Bug Fixes
+
+* **deps:** bump @contentful/f36-components from 4.68.1 to 4.69.0 in /apps/voucherify in the production-dependencies group ([#2793](https://github.com/xillio/contentful-marketplace-partner-apps/issues/2793)) ([ed5bae5](https://github.com/xillio/contentful-marketplace-partner-apps/commit/ed5bae5fb338f0d428be03e42565564ca0547349))
+* **deps:** bump @contentful/f36-components from 4.69.1 to 4.69.2 in /apps/voucherify in the production-dependencies group ([#2905](https://github.com/xillio/contentful-marketplace-partner-apps/issues/2905)) ([0a9b90b](https://github.com/xillio/contentful-marketplace-partner-apps/commit/0a9b90bcd969a875c1fb3de3ceba0ddffade60e2))
+* **deps:** bump @contentful/f36-components from 4.69.2 to 4.70.0 in /apps/voucherify in the production-dependencies group ([#2933](https://github.com/xillio/contentful-marketplace-partner-apps/issues/2933)) ([86bee48](https://github.com/xillio/contentful-marketplace-partner-apps/commit/86bee4819bd09f915714baf5e4e282d8a2a3bd6c))
+* **deps:** bump @contentful/f36-components from 4.70.0 to 4.73.0 in /apps/voucherify in the production-dependencies group ([#3185](https://github.com/xillio/contentful-marketplace-partner-apps/issues/3185)) ([e3c0388](https://github.com/xillio/contentful-marketplace-partner-apps/commit/e3c038862837a538ae8f69baae002c817fc3d612))
+* **deps:** bump @contentful/f36-components from 4.73.0 to 4.74.0 in /apps/voucherify in the production-dependencies group ([#3205](https://github.com/xillio/contentful-marketplace-partner-apps/issues/3205)) ([4037647](https://github.com/xillio/contentful-marketplace-partner-apps/commit/4037647856e5b84bf1086a0f056cc8edd6654ad9))
+* **deps:** bump @emotion/css from 11.13.0 to 11.13.4 in /apps/voucherify in the production-dependencies group ([#3133](https://github.com/xillio/contentful-marketplace-partner-apps/issues/3133)) ([891648a](https://github.com/xillio/contentful-marketplace-partner-apps/commit/891648acd969a6aa28c3cf9788ec5105b163539a))
+* **deps:** bump axios from 1.7.5 to 1.7.7 in /apps/voucherify in the production-dependencies group ([#2772](https://github.com/xillio/contentful-marketplace-partner-apps/issues/2772)) ([acac7ae](https://github.com/xillio/contentful-marketplace-partner-apps/commit/acac7ae49822fa39df1d8a06329c27601f03fa72))
+* **deps:** bump react-hook-form from 7.52.2 to 7.53.0 in /apps/voucherify in the production-dependencies group ([#2678](https://github.com/xillio/contentful-marketplace-partner-apps/issues/2678)) ([5a01acc](https://github.com/xillio/contentful-marketplace-partner-apps/commit/5a01acc9386181c2726eb26feb1043255c8a9eec))
+* **deps:** bump rollup from 4.20.0 to 4.22.4 in /apps/voucherify ([#3045](https://github.com/xillio/contentful-marketplace-partner-apps/issues/3045)) ([f493c33](https://github.com/xillio/contentful-marketplace-partner-apps/commit/f493c33930065addee20e744c43d0c7cd7f93f59))
+* **deps:** bump the production-dependencies group in /apps/voucherify with 2 updates ([#2837](https://github.com/xillio/contentful-marketplace-partner-apps/issues/2837)) ([66e46ea](https://github.com/xillio/contentful-marketplace-partner-apps/commit/66e46eaa067fc71d9a06c1a66bc2689c96ac64ff))
+
 ## [1.0.22](https://github.com/contentful/marketplace-partner-apps/compare/voucherify-contentful-app-v1.0.21...voucherify-contentful-app-v1.0.22) (2024-09-24)
 
 
